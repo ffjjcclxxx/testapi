@@ -13,29 +13,5 @@
   "RETURN CODE" : 200,
   "NAME" : "DMP MANAGER",
   "Result" : true
-}, {
-  "LAST RUN TIME" : "Fri Feb 23 22:14:39 PST 2018",
-  "RETURN CODE" : 200,
-  "NAME" : "SPARK",
-  "Result" : true
-}, {
-  "LAST RUN TIME" : "Fri Feb 23 22:14:39 PST 2018",
-  "RETURN CODE" : 200,
-  "NAME" : "S3 SERIVCE",
-  "Result" : true
-}, {
-  "LAST RUN TIME" : "Fri Feb 23 22:14:40 PST 2018",
-  "RETURN CODE" : 200,
-  "NAME" : "NOTIFICATION SERVICE",
-  "Result" : true
-}, {
-  "LAST RUN TIME" : "Fri Feb 23 22:14:40 PST 2018",
-  "RETURN CODE" : 200,
-  "NAME" : "FWSD SERVICE",
-  "Result" : true
-}, {
-  "LAST RUN TIME" : "Fri Feb 23 22:14:40 PST 2018",
-  "RETURN CODE" : 200,
-  "NAME" : "TABLEAU SERVICE",
-  "Result" : true
-} ]
+} 
+]
