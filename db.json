@@ -1,4 +1,4 @@
-[ {
+{
   "LAST RUN TIME" : "Fri Feb 23 22:14:38 PST 2018",
   "RETURN CODE" : 200,
   "NAME" : "DMP",
@@ -13,5 +13,4 @@
   "RETURN CODE" : 200,
   "NAME" : "DMP MANAGER",
   "Result" : true
-} 
-]
+}
